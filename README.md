@@ -11,12 +11,22 @@
 </p>
 
 <p>
+  <a href="https://wesleyhahn.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
+  <a href="https://wesleyhahn.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
+  </a>
+  <a href="https://www.imdb.com/name/nm13596753/?ref_=fn_al_nm_1" target="_blank">
+    <img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black" alt="IMDb">
+  </a>
   <a href="https://www.linkedin.com/in/wesleyjhahn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<p> 🎓 Studying -> Bachelor of Games Development, UTS | 2025 </p>
+<p> 💡 Lighting Director | ABC </p>
+<p> 🎓 Bachelor of Games Development, UTS | 2025 </p>
 
 
 <!--
